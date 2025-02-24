@@ -19,7 +19,7 @@ Métodos:
 
 - **Objetivo**: Implementa um gerenciador de tarefas, permitindo ao usuário adicionar, listar e remover
 
-Função `main`
+**Função** `main`
 - O programa principal oferece um menu interativo para o usuário:
 
 - Opção 1: Adicionar Tarefa: O usuário insere uma tarefa que será adicionada à lista.
